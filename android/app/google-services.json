@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "117524094893",
+    "firebase_url": "https://pinklineapp.firebaseio.com",
+    "project_id": "pinklineapp",
+    "storage_bucket": "pinklineapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117524094893:android:52fe3d906264ee7e3c4b24",
+        "android_client_info": {
+          "package_name": "com.pinklinedriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117524094893-dlhsm5529pmhr7plp4fes64bktg12lt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [ {
+        "current_key": "AIzaSyAtHAkCspo34rvpIPOjIZsfHJpWx0vJ6Pk"
+      }],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117524094893-dlhsm5529pmhr7plp4fes64bktg12lt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
